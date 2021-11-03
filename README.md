@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yun Zhu
 - 👀 I’m interested in new things!
-- 🌱 I’m currently learning web development and internet application!
+- 🌱 I’m currently learning web development!
 - 💞️ I’m looking to find a coop job related to programming!
 - 📫 How to reach me: zhu00137@algonquinlive.com
 
